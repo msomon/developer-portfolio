@@ -2,14 +2,21 @@ body{font-family: 'Poppins', sans-serif; margin:0}
 h1{font-size: 50px;
 }
 .my{color:orange;}
-section{display: flex;
+section{display: flex;margin-bottom: 150px;
 }
 .half-width{width50%; padding-left:2%;
 }
-.half-width img {width:100%;height: 100%;}
+.half-width img {width:90%;}
 .link-button{text-decoration:none;
 background-image: linear-gradient(orange,tomato);
 color:white;font-weight: 700;
 padding:10px 40px;border-radius: 5px;
 }
 .top-banner{background-image: url(top-banner.png);background-repeat: no-repeat;}
+.half-width2{width50%; padding-left:2%;
+}
+.he{color:red}
+.half-width2 img {width:90%;}
+.dream-big{background-image:dream-bg.png);background-repeat:no-repeat;
+background-position:right;
+}
